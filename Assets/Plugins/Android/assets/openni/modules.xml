@@ -1,0 +1,5 @@
+<Modules>
+    <Module path="libXnDeviceSensorV2.so" configDir="" />
+    <Module path="libBodyTracking.so" configDir="" />
+    <Module path="libHandTracking.so" configDir="" />
+</Modules>
